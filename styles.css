@@ -68,6 +68,12 @@ body{
     text-align: center;
 }
 
+@media (min-width: 1200px){
+    .superman{
+        width: 30%;
+    }
+}
+
 .dinosaur{
     position: absolute;
     top: 10%;
@@ -80,4 +86,12 @@ body{
     display: flex;       
     align-items: center;     
     justify-content: center; 
+}
+
+@media (min-width: 1200px){
+    .dinosaur{
+        width: 30%;
+        left: 45%;
+        top: 25%;
+    }
 }

@@ -7,6 +7,9 @@ body{
 .fireTitle{
     width: 70%;
 }
+.wizardPic{
+    width:80%;
+}
 .wizard{
     background-image: url("images/wizard.jpg");
     background-repeat: no-repeat;

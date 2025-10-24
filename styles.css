@@ -18,9 +18,9 @@ body{
 }
 p1{
     position:absolute;
-    left:0%;
+    left:-40%;
     top: 80%;
-    width: 100%;
+    width: 50rem;
     color: yellow;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }

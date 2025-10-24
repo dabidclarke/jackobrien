@@ -21,12 +21,14 @@ body{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 90%;             /* take up the full width of the image */
-    height: 35%;             /* occupy the bottom 20% of the image */
-    display: flex;           /* use flexbox to center text horizontally & vertically */
+    width: 95%;                
+    min-width: 0;   
+    box-sizing: border-box;
+    height: 35%;          
+    display: flex;       
     align-items: center;     
     justify-content: center; 
-    color: yellow;            /* text color */
+    color: yellow;         
     font-size: 1.5em;
     font-weight: bold;
     text-align: center;

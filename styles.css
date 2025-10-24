@@ -1,0 +1,16 @@
+body{
+    background-image: url("images/stars.png");
+    background-repeat: repeat;
+    background-size: 100px 100px;
+    background-color: blue;
+}
+.fireTitle{
+    width: 70%;
+}
+.wizard{
+    background-image: url("images/wizard.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 80%;
+}
